@@ -52421,6 +52421,11 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			leafstorm: ["9R", "8R", "7R", "6R", "5R", "4R"],
 		},
 	},
+	rotomsmog: {
+		learnset: {
+			sludgewave: ["9R", "8R", "7R", "6R", "5R", "4R"],
+		},
+	},
 	uxie: {
 		learnset: {
 			acrobatics: ["9M", "8M", "7M", "6M", "5M"],

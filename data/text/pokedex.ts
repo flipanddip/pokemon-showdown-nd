@@ -1829,6 +1829,9 @@ export const PokedexText: { [id: IDEntry]: PokedexText } = {
 	rotommow: {
 		name: "Rotom-Mow",
 	},
+	rotomsmog: {
+		name: "Rotom-Smog",
+	},
 	uxie: {
 		name: "Uxie",
 	},
